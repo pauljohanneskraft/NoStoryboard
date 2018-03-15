@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'NoStoryboard'
   s.version          = '0.1.0'
-  s.summary          = 'NoStoryboard allows to to easily create UIs for iOS Devices using code instead of Storyboards. It also includes some syntactic sugar for Swift.'
+  s.summary          = 'NoStoryboard makes it easy to create UIs programmatically (instead of Storyboards).'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,8 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Git issues with Storyboards are messy, that's why NoStoryboard aims for programmatically adding UI-Elements for iOS development instead of using Storyboards.
+It also adds some syntactical sugar.
                        DESC
 
   s.homepage         = 'https://github.com/pauljohanneskraft/NoStoryboard'

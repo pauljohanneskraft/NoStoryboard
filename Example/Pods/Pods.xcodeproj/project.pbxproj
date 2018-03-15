@@ -234,7 +234,7 @@
 				52C8A18CFCA2DE2D010EF5F2F669FD62 /* Support Files */,
 			);
 			name = NoStoryboard;
-			path = Source;
+			path = ../../NoStoryboard/Classes;
 			sourceTree = "<group>";
 		};
 		455F5890503ECD1873D3464F2D07BF28 /* Pods-NoStoryboard_Example */ = {
@@ -266,7 +266,7 @@
 				65074FB68F5B2844B251555A62B2CAD3 /* NoStoryboard-umbrella.h */,
 			);
 			name = "Support Files";
-			path = "../Target Support Files/NoStoryboard";
+			path = "../../Example/Pods/Target Support Files/NoStoryboard";
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
