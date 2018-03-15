@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/NoStoryboard.svg?style=flat)](http://cocoapods.org/pods/NoStoryboard)
 [![License](https://img.shields.io/cocoapods/l/NoStoryboard.svg?style=flat)](http://cocoapods.org/pods/NoStoryboard)
 [![Platform](https://img.shields.io/cocoapods/p/NoStoryboard.svg?style=flat)](http://cocoapods.org/pods/NoStoryboard)
+[![Readme Score](http://readme-score-api.herokuapp.com/score.svg?url=pauljohanneskraft/nostoryboard)](http://clayallsopp.github.io/readme-score?url=pauljohanneskraft/nostoryboard)
 
 ## Example
 
