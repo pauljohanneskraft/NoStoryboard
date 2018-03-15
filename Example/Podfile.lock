@@ -1,5 +1,5 @@
 PODS:
-  - NoStoryboard (0.1.0)
+  - NoStoryboard (0.1.4)
 
 DEPENDENCIES:
   - NoStoryboard (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  NoStoryboard: 75608a8ce55301ba729f914b9168b54e7573205c
+  NoStoryboard: 1cbfdbb204161384fabcb8d931c260d100743b22
 
 PODFILE CHECKSUM: ef2e0986f1346a49302cfc33687ba2ce7e4dd13f
 

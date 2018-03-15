@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NoStoryboard'
-  s.version          = '0.1.4'
-  s.summary          = 'Meaningful summary.'
+  s.version          = '1.0.0'
+  s.summary          = 'NoStoryboard makes it easier to create UIKit-elements without storyboards.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,8 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here. h
+Because UIKit is somewhat orientated towards programmers using Storyboards or at least .xib-files.
+Programmatically creating views make sense, because of a more deterministic app behavior, less git merge issues, and many more reasons.
                        DESC
 
   s.homepage         = 'https://github.com/pauljohanneskraft/NoStoryboard'

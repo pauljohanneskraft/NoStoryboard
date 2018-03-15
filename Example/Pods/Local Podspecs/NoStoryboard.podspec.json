@@ -1,9 +1,9 @@
 {
   "name": "NoStoryboard",
-  "version": "0.1.0",
-  "summary": "A short description of NoStoryboard.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Paul Kraft/NoStoryboard",
+  "version": "0.1.4",
+  "summary": "Meaningful summary.",
+  "description": "TODO: Add long description of the pod here. h",
+  "homepage": "https://github.com/pauljohanneskraft/NoStoryboard",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,12 @@
     "Paul Kraft": "pauljohanneskraft@outlook.com"
   },
   "source": {
-    "git": "https://github.com/Paul Kraft/NoStoryboard.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/pauljohanneskraft/NoStoryboard.git",
+    "tag": "0.1.4"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "NoStoryboard/Classes/**/*"
+  "source_files": "NoStoryboard/Classes/**/*",
+  "frameworks": "UIKit"
 }

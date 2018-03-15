@@ -7,8 +7,9 @@
 //
 
 import UIKit
+import NoStoryboard
 
-class ViewController: UIViewController {
+class ViewController: NoStoryBoardViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
