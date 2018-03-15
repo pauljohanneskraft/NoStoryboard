@@ -1,13 +1,7 @@
 PODS:
-  - FBSnapshotTestCase (2.1.4):
-    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
-  - FBSnapshotTestCase/Core (2.1.4)
-  - FBSnapshotTestCase/SwiftSupport (2.1.4):
-    - FBSnapshotTestCase/Core
   - NoStoryboard (0.1.0)
 
 DEPENDENCIES:
-  - FBSnapshotTestCase (~> 2.1.4)
   - NoStoryboard (from `../`)
 
 EXTERNAL SOURCES:
@@ -15,9 +9,8 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  NoStoryboard: b0ec75517394e65ac34e29e2128cbf200e50c7d3
+  NoStoryboard: 75608a8ce55301ba729f914b9168b54e7573205c
 
-PODFILE CHECKSUM: 6ca90dfa8d43f3025d8bd7cd8f473fd5f5e81482
+PODFILE CHECKSUM: f71d60f1ad6d07f5e47e0ebf2f4f0695421300a1
 
 COCOAPODS: 1.3.1
