@@ -1,6 +1,0 @@
-use_frameworks!
-target 'NoStoryboard_Tests' do
-  pod 'NoStoryboard', :path => '../'
-  
-  
-end
