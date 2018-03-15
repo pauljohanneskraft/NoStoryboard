@@ -1,0 +1,6 @@
+framework module NoStoryboard {
+  umbrella header "NoStoryboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
