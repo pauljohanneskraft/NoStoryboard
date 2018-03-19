@@ -9,7 +9,7 @@
 import UIKit
 import NoStoryboard
 
-class ViewController: NoStoryBoardViewController {
+class ViewController: NoStoryboard.ViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

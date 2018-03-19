@@ -1,11 +1,11 @@
 //
-//  NoStoryboardViewController.swift
-//  FBSnapshotTestCase
+//  ViewController.swift
+//  NoStoryboard
 //
 //  Created by Paul Kraft on 15.03.18.
 //
 
-open class NoStoryBoardViewController: UIViewController {
+open class ViewController: UIViewController {
     public init(view: UIView) {
         super.init(nibName: nil, bundle: nil)
         self.view = view
@@ -21,6 +21,6 @@ open class NoStoryBoardViewController: UIViewController {
     }
     
     public required init?(coder aDecoder: NSCoder) {
-        fatalError("init(coder:) has not been implemented")
+        super.init(coder: aDecoder)
     }
 }

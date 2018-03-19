@@ -1,6 +1,6 @@
 //
-//  UIDeviceExtensions.swift
-//  FBSnapshotTestCase
+//  UIDevice.swift
+//  NoStoryboard
 //
 //  Created by Paul Kraft on 15.03.18.
 //

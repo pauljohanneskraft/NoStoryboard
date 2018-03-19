@@ -28,18 +28,3 @@ extension UIView {
         }
     }
 }
-
-@available(iOS 10.0, *)
-extension UIView {
-    
-    @discardableResult
-    public func blur(style: UIBlurEffectStyle = .regular, alpha: CGFloat = 0.35) -> UIVisualEffectView {
-        let effect = UIBlurEffect(style: style)
-        return UIVisualEffectView(effect: effect).where { blurView in
-            blurView.alpha = alpha
-            blurView.frame = frame
-            addSubviewWithConstraints(fillingCompletely: blurView)
-            sendSubview(toBack: blurView)
-        }
-    }
-}

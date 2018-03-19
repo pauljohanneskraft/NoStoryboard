@@ -1,13 +1,11 @@
 //
-//  NoStoryboardAppDelegate.swift
+//  AppDelegate.swift
 //  NoStoryboard
 //
 //  Created by Paul Kraft on 15.03.18.
 //
 
-import Foundation
-
-open class NoStoryBoardAppDelegate: UIResponder, UIApplicationDelegate {
+open class AppDelegate: UIResponder, UIApplicationDelegate {
     public var window: UIWindow?
     
     public func show(rootViewController: UIViewController) {

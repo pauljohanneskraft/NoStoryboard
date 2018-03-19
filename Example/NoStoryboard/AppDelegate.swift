@@ -10,10 +10,8 @@ import UIKit
 import NoStoryboard
 
 @UIApplicationMain
-class AppDelegate: NoStoryBoardAppDelegate {
-    
-    
-
+class AppDelegate: NoStoryboard.AppDelegate {
+        
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         
         show(rootViewController: UIViewController())
