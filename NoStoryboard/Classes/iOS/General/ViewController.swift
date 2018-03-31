@@ -23,4 +23,17 @@ open class ViewController: UIViewController {
     public required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
     }
+    
+    deinit {
+        view?.removeAllSubviewTargets()
+    }
+}
+
+extension UIView {
+    func removeAllSubviewTargets() {
+        for subview in subviews {
+            (subview as? Control)?.removeAllTargets()
+            subview.removeAllSubviewTargets()
+        }
+    }
 }

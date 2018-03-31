@@ -1,5 +1,5 @@
 //
-//  StackView.swift
+//  UIStackView.swift
 //  NoStoryboard
 //
 //  Created by Paul Kraft on 18.03.18.

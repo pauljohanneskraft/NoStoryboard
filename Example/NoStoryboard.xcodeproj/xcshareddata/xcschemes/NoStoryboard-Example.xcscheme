@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0920"
+   LastUpgradeVersion = "0900"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "607FACCF1AFB9204008FA782"
+               BlueprintIdentifier = "ED83F67720348A760038D96B"
                BuildableName = "NoStoryboard_Example.app"
                BlueprintName = "NoStoryboard_Example"
-               ReferencedContainer = "container:NoStoryboard.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "607FACE41AFB9204008FA782"
-               BuildableName = "NoStoryboard_Tests.xctest"
-               BlueprintName = "NoStoryboard_Tests"
                ReferencedContainer = "container:NoStoryboard.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,7 +33,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "607FACE41AFB9204008FA782"
+               BlueprintIdentifier = "ED83F68920348A760038D96B"
                BuildableName = "NoStoryboard_Tests.xctest"
                BlueprintName = "NoStoryboard_Tests"
                ReferencedContainer = "container:NoStoryboard.xcodeproj">
@@ -57,7 +43,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "607FACCF1AFB9204008FA782"
+            BlueprintIdentifier = "ED83F67720348A760038D96B"
             BuildableName = "NoStoryboard_Example.app"
             BlueprintName = "NoStoryboard_Example"
             ReferencedContainer = "container:NoStoryboard.xcodeproj">
@@ -81,7 +67,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "607FACCF1AFB9204008FA782"
+            BlueprintIdentifier = "ED83F67720348A760038D96B"
             BuildableName = "NoStoryboard_Example.app"
             BlueprintName = "NoStoryboard_Example"
             ReferencedContainer = "container:NoStoryboard.xcodeproj">
@@ -100,7 +86,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "607FACCF1AFB9204008FA782"
+            BlueprintIdentifier = "ED83F67720348A760038D96B"
             BuildableName = "NoStoryboard_Example.app"
             BlueprintName = "NoStoryboard_Example"
             ReferencedContainer = "container:NoStoryboard.xcodeproj">

@@ -1,10 +1,6 @@
 use_frameworks!
-
-target 'NoStoryboard_Example' do
-    platform :ios
-    pod 'NoStoryboard', :path => '../'
-    
-    target 'NoStoryboard_Tests' do
-        inherit! :search_paths
-    end
+target 'NoStoryboard_Tests' do
+  pod 'NoStoryboard', :path => '../'
+  
+  
 end
