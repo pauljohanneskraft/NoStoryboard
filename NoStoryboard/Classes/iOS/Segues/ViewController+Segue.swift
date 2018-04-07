@@ -5,7 +5,7 @@
 //  Created by Paul Kraft on 18.03.18.
 //
 
-extension ViewController {
+extension UIViewController {
     public func performSegue(identifier: String, to destination: UIViewController, type: Segue.Kind, sender: Any?) {
         let segue = Segue(
             identifier: identifier,

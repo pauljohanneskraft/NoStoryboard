@@ -27,6 +27,7 @@
 		9BB8A6A3205F66C900EFF316 /* UIDeviceOrientation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BB8A693205F66C900EFF316 /* UIDeviceOrientation.swift */; };
 		9BB8A6A4205F66C900EFF316 /* UIDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BB8A694205F66C900EFF316 /* UIDevice.swift */; };
 		9BB8A6A5205F66C900EFF316 /* StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BB8A696205F66C900EFF316 /* StackView.swift */; };
+		9BF48CCC2074C9610033A151 /* TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF48CCB2074C9610033A151 /* TableView.swift */; };
 		A5A8176DA0D042DAE02AD531D0C09953 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DF428FC7C7A6555B2B02D8E238C8D8F2 /* Cocoa.framework */; };
 		E02A1CD90DA266FF0E4B729501896DA1 /* Pods-NoStoryboard_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1848168B5DD9A06A8B72BD2E191ED6F8 /* Pods-NoStoryboard_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EDDE645373754C955D14A1F6A16046F7 /* Pods-NoStoryboard_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CAB980D64F37FA8CE271781C98950B99 /* Pods-NoStoryboard_Tests-dummy.m */; };
@@ -77,6 +78,7 @@
 		9BB8A693205F66C900EFF316 /* UIDeviceOrientation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIDeviceOrientation.swift; sourceTree = "<group>"; };
 		9BB8A694205F66C900EFF316 /* UIDevice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIDevice.swift; sourceTree = "<group>"; };
 		9BB8A696205F66C900EFF316 /* StackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StackView.swift; sourceTree = "<group>"; };
+		9BF48CCB2074C9610033A151 /* TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableView.swift; sourceTree = "<group>"; };
 		B8D045FF7582F079DEAA9013E52D6B28 /* NoStoryboard-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NoStoryboard-umbrella.h"; sourceTree = "<group>"; };
 		CAB980D64F37FA8CE271781C98950B99 /* Pods-NoStoryboard_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NoStoryboard_Tests-dummy.m"; sourceTree = "<group>"; };
 		DF428FC7C7A6555B2B02D8E238C8D8F2 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Cocoa.framework; sourceTree = DEVELOPER_DIR; };
@@ -216,6 +218,7 @@
 			isa = PBXGroup;
 			children = (
 				9BB8A696205F66C900EFF316 /* StackView.swift */,
+				9BF48CCB2074C9610033A151 /* TableView.swift */,
 				9B7F06C0205FE3E4006D678B /* Control.swift */,
 			);
 			path = Views;
@@ -406,6 +409,7 @@
 				4961774AAA0A3F2E46EB64ED24DE1017 /* NoStoryboard-dummy.m in Sources */,
 				9BB8A697205F66C900EFF316 /* NSMenu.swift in Sources */,
 				9BB8A69D205F66C900EFF316 /* Segue.swift in Sources */,
+				9BF48CCC2074C9610033A151 /* TableView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
