@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'NoStoryboard'
-    s.version          = '1.1.0'
+    s.version          = '1.1.1'
     s.summary          = 'NoStoryboard makes it easier to create UIKit-elements without storyboards.'
     
     s.description      = <<-DESC
