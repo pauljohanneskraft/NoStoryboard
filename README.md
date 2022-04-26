@@ -22,7 +22,7 @@ pod 'NoStoryboard'
 
 ## Author
 
-pauljohanneskraft, paul.kraft@tum.de
+Paul Kraft
 
 ## License
 
