@@ -1,3 +1,5 @@
+![NoStoryboard](https://user-images.githubusercontent.com/15239005/165399584-dac6581f-612d-4ec7-8762-14b3a697e14e.png)
+
 # NoStoryboard
 
 [![CI Status](http://img.shields.io/travis/pauljohanneskraft/NoStoryboard.svg?style=flat)](https://travis-ci.org/pauljohanneskraft/NoStoryboard)
